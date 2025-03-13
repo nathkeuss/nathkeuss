@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Salut, moi c'est [Ton Nom ou Pseudo] ! 
 
-<!--
-**nathkeuss/nathkeuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 À propos de moi :
+- 🎓 En reconversion vers le développement web
+- 🔍 À la recherche d'une **alternance en Bac+3 CDA**
+- 🏗️ Passionné par l'**architecture du code** et le **back-end**
 
-Here are some ideas to get you started:
+### 🛠️ Technologies & Outils :
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Stats GitHub :
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&theme=tokyonight)
+
+### 📫 Me contacter :
+📧 julio.nathan47@gmail.com  
+📞 07 50 83 04 27  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonprofil)
