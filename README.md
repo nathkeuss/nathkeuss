@@ -14,7 +14,6 @@
 ### 📈 Stats GitHub :
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nathkeuss&show_icons=true&theme=tokyonight)
 [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nathkeuss&theme=tokyonight)](https://github.com/nathkeuss)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nathkeuss&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathkeuss&layout=compact&theme=tokyonight)
 
 
