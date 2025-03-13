@@ -1,4 +1,4 @@
-# salut, moi c'est Nathan.! 
+# 🤓 salut, moi c'est Nathan. # 
 
 - En reconversion vers le développement web
 - À la recherche d'une entreprise pour effectuer une **alternance**
