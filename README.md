@@ -12,9 +12,9 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### 📈 Stats GitHub :
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nathkeuss&show_icons=true&theme=tokyonight)
 
 ### 📫 Me contacter :
 📧 julio.nathan47@gmail.com  
 📞 07 50 83 04 27  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonprofil)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-julio)
